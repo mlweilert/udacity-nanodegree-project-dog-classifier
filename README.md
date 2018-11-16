@@ -9,7 +9,7 @@
 
  This Notebook was part of the Convolutional Neural Networks (CNN) project in the AI Nanodegree. In this project, I learned to develop a network, that, given an image of a dog, would identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
-##Steps to Completion
+## Steps to Completion
  
  1. Investigation of cascades and facial recognition.
  2. Use a pre-trained CNN to identify dogs.
